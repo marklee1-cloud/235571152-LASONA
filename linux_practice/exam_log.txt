@@ -1,0 +1,78 @@
+    1  ls
+    2  history
+    3  cd /.
+    4  cd root
+    5  cd linux_practice
+    6  history
+    7  cd /.
+    8  cd 235571152-Lasona
+    9  history
+   10  mkdir linux_practice
+   11  cd linux_practice
+   12  touch notes.txt
+   13  ls > notes.txt
+   14  cat notes.txt
+   15  echo "Hello, Linux!" >> notes.txt
+   16  echo "This is a practical exam." >> notes.txt
+   17  head notes.txt
+   18  tail notes.txt
+   19  mkdir subdir
+   20  mv notes.txt subdir
+   21  ls
+   22  mv subdir practice_subdir
+   23  ls
+   24  cp notes.txt practice_subdir
+   25  cp practice_subdir
+   26  cp practice_subdir copy_of_practice_subdir
+   27  cp notes.txt practice_subdir
+   28  cd ..
+   29  ls
+   30  date
+   31  uptime
+   32  du -sh ~
+   33  ssh -v
+   34  php -v
+   35  python3 --version
+   36  java -v
+   37  apache3 -v
+   38  mysql -v
+   39  git checkout -b finalexam
+   40  touch exam_log.txt
+   41  history > exam_log.txt
+   42  apt install gh
+   43  git clone 235571152-Lasona
+   44  git auth login
+   45  gh auth login
+   46  git clone https://github.com/marklee1-cloud/235571152-LASONA
+   47  cd 235571-LASONA
+   48  cd 235571152-LASONA
+   49  mkdir linux_practice
+   50  cd linux_practice
+   51  touch notes.txt
+   52  ls > notes.txt
+   53  cat notes.txt
+   54  echo "Hello, Linux!" >> notes.txt
+   55  echo "This is a practical exam." >> notes.txt
+   56  head notes.txt
+   57  tail notes.txt
+   58  mkdir subdir
+   59  mv notes.txt subdir
+   60  ls
+   61  mv subdir practice_subdir
+   62  ls
+   63  cd practice_subdir
+   64  cd ..
+   65  ls
+   66  date
+   67  uptime
+   68  du -sh ~
+   69  ssh -v
+   70  php -v
+   71  python3 --version
+   72  java -v
+   73  apache3 -v
+   74  mysql -v
+   75  mysql --version
+   76  git checkout -b finalexam
+   77  touch exam_log.txt
+   78  history > exam_log.txt
